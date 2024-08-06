@@ -149,4 +149,9 @@ class Provera
         Console.WriteLine("Ovo su imena svih zaposlenih:");
         EmployeeDbFake.PrikaziImenaZaposlenih();
     }
+
+    class TestClass
+    {
+        //implementation
+    }
 }
